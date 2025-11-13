@@ -1,0 +1,22 @@
+# Phoenix Fury v10.0 ULTIMATE - Requirements
+
+# Core Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# Performance & System
+psutil==5.9.8
+uvloop==0.19.0
+
+# HTTP/2 Support
+h2==4.1.0
+hyperframe==6.0.1
+hpack==4.0.0
+
+# Additional Performance
+httptools==0.6.1
+python-dotenv==1.0.0
+
+# Async support
+aiohttp==3.9.1
