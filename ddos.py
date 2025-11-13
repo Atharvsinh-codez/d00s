@@ -1,4 +1,4 @@
-
+"""
 🔥 Phoenix Fury v10.0 ULTIMATE - Maximum Methods Edition
 - 15+ L7 HTTP Methods (HTTP/1.1, HTTP/2, HTTP/3)
 - 10+ L4 Attack Vectors
